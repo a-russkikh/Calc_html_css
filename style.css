@@ -1,0 +1,19 @@
+/*
+colors
+bg #000
+orange #ff9501
+grey #a6a6a6
+white #fdfdfd
+*/
+
+.calc {
+  width: 300px;
+  height: 500px;
+  border: 1px solid #000;
+  border-radius: 20px;
+  background: #000;
+  color: #fff;
+  font-family: Arial;
+  padding: 18px;
+  box-shadow: 4px 4px 4px #4f4f4f;
+}
